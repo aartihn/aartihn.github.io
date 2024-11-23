@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.fb0566f4.css",
-    "main.js": "/static/js/main.762999df.js",
+    "main.js": "/static/js/main.90da743c.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/AI-Enabled-Black-Hole-Detection-and-Deflection.jpeg": "/static/media/AI-Enabled-Black-Hole-Detection-and-Deflection.04823a9ac97bd25bc75d.jpeg",
     "static/media/Understanding-the-Nature-of-Consciousness-with-AI.jpeg": "/static/media/Understanding-the-Nature-of-Consciousness-with-AI.a639f3f9ec6e7ed94d18.jpeg",
-    "static/media/rpms.jpeg": "/static/media/rpms.07956c6da5cc2ce84c9d.jpeg",
-    "static/media/xseller.jpeg": "/static/media/xseller.83a153abeab076ea6893.jpeg",
+    "static/media/rpms.jpeg": "/static/media/rpms.bc5da93f4976b62b167c.jpeg",
     "static/media/Aarti_Nemade_Resume.pdf": "/static/media/Aarti_Nemade_Resume.361733dc62346498bac6.pdf",
+    "static/media/xseller.jpeg": "/static/media/xseller.0d65f20e86e8010c86d4.jpeg",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/chatx.jpeg": "/static/media/chatx.00736b82a18c68a76679.jpeg",
+    "static/media/chatx.jpeg": "/static/media/chatx.9bbafce064bec587f42b.jpeg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/logo.png": "/static/media/logo.4540bbdb321088b6371c.png",
     "static/media/home-main.svg": "/static/media/home-main.5eba41e5ca39897a046d7e1772be34a9.svg",
@@ -20,12 +20,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.fb0566f4.css.map": "/static/css/main.fb0566f4.css.map",
-    "main.762999df.js.map": "/static/js/main.762999df.js.map",
+    "main.90da743c.js.map": "/static/js/main.90da743c.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb0566f4.css",
-    "static/js/main.762999df.js"
+    "static/js/main.90da743c.js"
   ]
 }
